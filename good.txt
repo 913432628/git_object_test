@@ -4,5 +4,5 @@ This is my first git test file.
 test git log.
 test git log-2.##########
 test git log-3.
-test git log-4.
+test git log-4.edit by master
 test git log-5.
